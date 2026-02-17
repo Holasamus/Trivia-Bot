@@ -1,0 +1,1 @@
+Esta es mi solucion para el Trivia-BOT de FREECODECAMP 2026
